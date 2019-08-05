@@ -4,7 +4,7 @@ Rounded rectangle, circle shaders in Unity
 ![alt tag](https://github.com/sunduk/UnityRoundedShader/blob/master/screenshot.png?raw=true)
 
 ## See also
-The below two sites appeared when I searched on google.
+The below two web sites appeared when I searched on google.
 
 https://www.shadertoy.com/view/ldfSDj
 
