@@ -48,6 +48,7 @@ So, I have re-written the shader codes more understandable and added a circle sh
 - 소스코드와 이미지는 아무런 제약 없이 자유롭게 사용 가능합니다.
 - All source codes and images are free to use(Commercial use is possible).
 
+<pre>
 /*
  * ------------------------------------------------------------
  * "THE BEERWARE LICENSE" (Revision 42):
@@ -57,4 +58,5 @@ So, I have re-written the shader codes more understandable and added a circle sh
  * buy me a beer in return.
  * ------------------------------------------------------------
  */
+ </pre>
  
