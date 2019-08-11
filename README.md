@@ -1,5 +1,5 @@
 # UnityRoundedShader
-Rounded rectangle, circle shaders in Unity
+Rounded rectangle, circle, ellipse shaders in Unity
 
 ![alt tag](https://github.com/sunduk/UnityRoundedShader/blob/master/screenshot.png?raw=true)
 
