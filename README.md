@@ -1,7 +1,7 @@
 # UnityRoundedShader
 Rounded rectangle, circle, ellipse shaders in Unity
 
-![alt tag](https://github.com/sunduk/UnityRoundedShader/blob/master/screenshot.png?raw=true)
+![alt tag](https://github.com/sunduk/UnityRoundedShader/blob/master/preview.gif?raw=true)
 
 ## Description
 셰이더로 둥근 사각형을 만들기 위해 구글에 검색해 보니 아래 두개의 사이트가 상단에 보였습니다.
