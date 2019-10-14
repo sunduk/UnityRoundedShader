@@ -7,6 +7,9 @@ Rounded rectangle, circle, ellipse shaders in Unity
 f(x)=x^2
 
 ## Description
+이 코드에 대한 강좌는 여기서 볼 수 있습니다 : https://lee-seokhyun.gitbook.io/workspace/client/shader/roundedrect_shader
+
+
 셰이더로 둥근 사각형을 만들기 위해 구글에 검색해 보니 아래 두개의 사이트가 상단에 보였습니다.
 
 https://www.shadertoy.com/view/ldfSDj
